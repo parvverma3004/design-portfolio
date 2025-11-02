@@ -8,10 +8,9 @@ Hello! I'm Parv Verma, a passionate designer dedicated to creating impactful and
 
 ### Skills
 
-- **Design Tools**: Adobe Creative Suite (Photoshop, Illustrator, InDesign, XD), Figma, Sketch
+- **Design Tools**: Adobe Creative Suite (Photoshop, Illustrator, InDesign, Figma
 - **UI/UX Design**: User Research, Wireframing, Prototyping, User Testing, Information Architecture
 - **Visual Design**: Typography, Color Theory, Layout Design, Branding, Logo Design
-- **Web Technologies**: HTML, CSS, Basic JavaScript
 - **Other Skills**: Project Management, Collaboration, Problem-Solving, Attention to Detail
 
 ---
