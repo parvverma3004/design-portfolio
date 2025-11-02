@@ -8,7 +8,7 @@ Hello! I'm Parv Verma, a passionate designer dedicated to creating impactful and
 
 ### Skills
 
-- **Design Tools**: Adobe Creative Suite (Photoshop, Illustrator, InDesign, Figma
+- **Design Tools**: Adobe Creative Suite (Photoshop, Illustrator, InDesign, Figma)
 - **UI/UX Design**: User Research, Wireframing, Prototyping, User Testing, Information Architecture
 - **Visual Design**: Typography, Color Theory, Layout Design, Branding, Logo Design
 - **Other Skills**: Project Management, Collaboration, Problem-Solving, Attention to Detail
@@ -65,25 +65,27 @@ Below are my main design projects. Each project represents a unique challenge an
 
 I'm committed to continuous learning and professional development. Below are my Google certifications:
 
-### Certificate 1: [Certificate Name]
+### Certificate- Foundations of User Experience (UX) Design
 **Issued by**: Google
 
-**Date**: [Month Year]
+**Date**: 16 october 2025 
 
-**Description**: Brief description of what this certificate covers and the skills acquired.
+**Description**: Identify common job responsibilities of entry-level UX designers and other teams you might work with. Understand foundational concepts in UX design, such as user-centered design, the design process, accessibility, and equity-focused design. Explain why design sprints are an important and useful part of a UX designer’s work.
 
-**Certificate Link/Upload**: [Add certificate image or link here]
+
+
+**Certificate Link/Upload**: https://www.coursera.org/account/accomplishments/verify/L5W7ZQ9ZAQ4M
 
 ---
 
-### Certificate 2: [Certificate Name]
+### Certificate 2:  Start the UX Design Process: Empathize, Define, and Ideate
 **Issued by**: Google
 
-**Date**: [Month Year]
+**Date**: 26 october 2025
 
-**Description**: Brief description of what this certificate covers and the skills acquired.
+**Description**: Empathize with users to understand their needs and pain points. Develop problem statements to define user needs. Generate ideas for possible solutions to user problems.
 
-**Certificate Link/Upload**: [Add certificate image or link here]
+**Certificate Link/Upload**: https://www.coursera.org/account/accomplishments/verify/LJDRJU3IQ66K
 
 ---
 
@@ -103,9 +105,9 @@ I'm committed to continuous learning and professional development. Below are my 
 Feel free to reach out to discuss projects, opportunities, or collaborations:
 
 - **GitHub**: [parvverma3004](https://github.com/parvverma3004)
-- **Email**: [Your email address]
-- **LinkedIn**: [Your LinkedIn profile]
-- **Portfolio**: [Your portfolio website]
+- **Email**: parv.verma3004@gmail.com
+- **LinkedIn**: 
+- **Portfolio**:
 
 ---
 
